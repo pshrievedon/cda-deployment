@@ -2,7 +2,7 @@
 
 ### Overview
 
-Output is a digital journaling app that captures and curates the essence of a user's day. It automatically creates daily entries, blending images, text snippets, location data, weather, and other digital artifacts to create a personalized time capsule of lived experiences.
+Output is a journaling app that automatically creates daily entries by weaving a user's digital life into a personalized and secure time capsule of their lived experiences.
 
 ### Problem
 

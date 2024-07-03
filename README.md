@@ -72,9 +72,9 @@ The ideal user is anyone interested in self-reflection and personal archiving. T
 
 ### Nice-to-Haves
 
+- Advanced data analysis and insights
 - Integration with external APIs for data collection
 - Cloud syncing and backup
-- ==Advanced data analysis and insights==
 - Transactions linked to vendor
 - Option to see raw chronological (think Whoop landscape mode heart rate screen)
 - Social sharing/viewing features
